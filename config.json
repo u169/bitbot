@@ -1,0 +1,12 @@
+{
+    "bot" : {
+        "token" : "yourToken"
+    },
+    "coinmarketcap" : {
+        "limit" : "1000",
+        "url" : "https://api.coinmarketcap.com/v1/ticker/?limit="
+    },
+    "database" : {
+        "" : ""
+    }
+}
